@@ -1,57 +1,4 @@
 {
-  "DormRoom": {
-    "Room": {
-      "RoomId": 1024,
-      "Name": "DormRoom",
-      "Description": "Your own private room to prepare for a big day in Rec Room!",
-      "ImageName": "DormRoom.png",
-      "CreatorPlayerId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "IsDormRoom": true,
-      "CloningAllowed": false,
-      "SupportsVRLow": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "AllowsJuniors": false,
-      "RoomWarningMask": 0,
-      "CustomRoomWarning": "",
-      "DisableMicAutoMute": false
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 1,
-        "RoomId": 1024,
-        "RoomSceneLocationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
-        "Location": "76d98498-60a1-430c-ab76-b54a29b7a163",
-        "Name": "Home",
-        "IsSandbox": true,
-        "DataBlobName": null,
-        "MaxPlayers": 4,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2023-12-15T10:22:55.7137741+00:00"
-      }
-    ],
-    "CoOwners": [],
-    "InvitedCoOwners": [],
-    "InvitedModerators": [],
-    "Moderators": [],
-    "Hosts": [],
-    "InvitedHosts": [],
-    "CheerCount": 1,
-    "LocalPlayerRole": 3,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "Sandbox",
-        "Type": 1
-      }
-    ]
-  },
   "RecCenter": {
     "Room": {
       "RoomId": 1,
@@ -959,59 +906,6 @@
     "InvitedHosts": [],
     "CheerCount": 1,
     "LocalPlayerRole": 0,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "rro",
-        "Type": 2
-      }
-    ]
-  },
-  "RecRoyaleSandbox": {
-    "Room": {
-      "RoomId": 23,
-      "Name": "RecRoyaleSandbox",
-      "Description": "Use the maker pen and dick around in a big map",
-      "ImageName": "RecRoyale.png",
-      "CreatorPlayerId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "IsDormRoom": false,
-      "CloningAllowed": false,
-      "SupportsVRLow": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "AllowsJuniors": false,
-      "RoomWarningMask": 0,
-      "CustomRoomWarning": null,
-      "DisableMicAutoMute": false
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 23,
-        "RoomId": 22,
-        "RoomSceneLocationId": "b010171f-4875-4e89-baba-61e878cd41e1",
-        "Location": null,
-        "Name": "MAKER DEEZ",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2023-12-15T10:22:55.7311064+00:00"
-      }
-    ],
-    "CoOwners": [],
-    "InvitedCoOwners": [],
-    "InvitedModerators": null,
-    "Moderators": null,
-    "Hosts": [],
-    "InvitedHosts": [],
-    "CheerCount": 1,
-    "LocalPlayerRole": 3,
     "FavoriteCount": 1,
     "VisitCount": 1,
     "Tags": [
