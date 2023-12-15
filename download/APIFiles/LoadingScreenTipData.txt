@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "c5371ce5829741cf8d31e5e9cb4d41a0",
+    "Title": "2019 RecRoom",
+    "Message": "welcome to https://2019.OldRecRoom.com/, i hope you like it.",
+    "RoomNames": [],
+    "Context": 0,
+    "InputType": 0,
+    "Visibility": 1,
+    "AllowCycling": true,
+    "RestrictToNewUsers": false,
+    "ImageName": "98f0fdd27ec54c4682e32a201dbb14a2",
+    "PlatformMask": 96,
+    "CreatedAt": "2023-12-15T17:55:55.0951031Z"
+  }
+]
