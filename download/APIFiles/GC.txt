@@ -1,0 +1,104 @@
+[
+  {
+    "Key": "Gift.MaxDaily",
+    "Value": "100",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Gift.Falloff",
+    "Value": "1",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Gift.DropChance",
+    "Value": "100",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "UseHeartbeatWebSocket",
+    "Value": "0",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Screens.ForceVerification",
+    "Value": "1",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Screens.ForceVerification",
+    "Value": "1",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "forceRegistration",
+    "Value": "0",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Creative.Query",
+    "Value": "#Sandbox",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Creative.Title",
+    "Value": "CUSTOM ROOMS",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Featured.Query",
+    "Value": "#Sandbox",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Featured.Title",
+    "Value": "CUSTOM ROOMS",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Quests.Query",
+    "Value": "#Sandbox",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Quests.Title",
+    "Value": "CUSTOM ROOMS",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Shooters.Query",
+    "Value": "#Sandbox",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Shooters.Title",
+    "Value": "CUSTOM ROOMS",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Sports.Query",
+    "Value": "#Sandbox",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "Door.Sports.Title",
+    "Value": "CUSTOM ROOMS",
+    "StartTime": null,
+    "EndTime": null
+  }
+]
