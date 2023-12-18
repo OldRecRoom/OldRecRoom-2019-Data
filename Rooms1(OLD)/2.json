@@ -1,0 +1,61 @@
+{
+  "Room": {
+    "RoomId": 2,
+    "Name": "Paddleball",
+    "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": false,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": null,
+    "DisableMicAutoMute": false
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 3,
+      "RoomId": 2,
+      "RoomSceneLocationId": "d89f74fa-d51e-477a-a425-025a891dd499",
+      "Location": null,
+      "Name": "paddledeez",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 2,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": null,
+  "Moderators": null,
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "sport",
+      "Type": 2
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}

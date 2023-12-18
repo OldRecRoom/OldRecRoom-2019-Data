@@ -1,0 +1,57 @@
+{
+  "Room": {
+    "RoomId": 20,
+    "Name": "Soccer",
+    "Description": "haha ball go brr",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": false,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": null,
+    "DisableMicAutoMute": false
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 21,
+      "RoomId": 20,
+      "RoomSceneLocationId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+      "Location": null,
+      "Name": "deez",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": null,
+  "Moderators": null,
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}

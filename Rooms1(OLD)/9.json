@@ -1,0 +1,57 @@
+{
+  "Room": {
+    "RoomId": 9,
+    "Name": "IsleOfLostSkulls",
+    "Description": "skelebone QUESTING WOOOO",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": false,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": null,
+    "DisableMicAutoMute": false
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 10,
+      "RoomId": 9,
+      "RoomSceneLocationId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+      "Location": null,
+      "Name": "Lost? How are you lost trying to find bitches?",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 3,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": null,
+  "Moderators": null,
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}

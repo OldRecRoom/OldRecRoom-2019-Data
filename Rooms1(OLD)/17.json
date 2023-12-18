@@ -1,0 +1,69 @@
+{
+  "Room": {
+    "RoomId": 17,
+    "Name": "LaserTag",
+    "Description": "It's a 4v4 battle against 2 teams. (bots included)",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": true,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": false,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": null,
+    "DisableMicAutoMute": false
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 0,
+      "RoomId": 17,
+      "RoomSceneLocationId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+      "Location": null,
+      "Name": "Hanger",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    },
+    {
+      "RoomSceneId": 1,
+      "RoomId": 18,
+      "RoomSceneLocationId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+      "Location": null,
+      "Name": "CyberJunkCity",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": null,
+  "Moderators": null,
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}

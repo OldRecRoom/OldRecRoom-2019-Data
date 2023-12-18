@@ -1,0 +1,105 @@
+{
+  "Room": {
+    "RoomId": 11,
+    "Name": "Paintball",
+    "Description": "pain.",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": true,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": false,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": null,
+    "DisableMicAutoMute": false
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 0,
+      "RoomId": 11,
+      "RoomSceneLocationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+      "Location": null,
+      "Name": "River",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    },
+    {
+      "RoomSceneId": 1,
+      "RoomId": 12,
+      "RoomSceneLocationId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+      "Location": null,
+      "Name": "Homestead",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    },
+    {
+      "RoomSceneId": 2,
+      "RoomId": 13,
+      "RoomSceneLocationId": "ff4c6427-7079-4f59-b22a-69b089420827",
+      "Location": null,
+      "Name": "Quarry",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    },
+    {
+      "RoomSceneId": 3,
+      "RoomId": 14,
+      "RoomSceneLocationId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+      "Location": null,
+      "Name": "Clearcut",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    },
+    {
+      "RoomSceneId": 4,
+      "RoomId": 15,
+      "RoomSceneLocationId": "58763055-2dfb-4814-80b8-16fac5c85709",
+      "Location": null,
+      "Name": "Spillway",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 8,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": null,
+  "Moderators": null,
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Room": {
+    "RoomId": 1,
+    "Name": "RecCenter",
+    "Description": "REC.",
+    "ImageName": "1x3cowj49jn0p6hblb2wk55ha.jpg",
+    "CreatorPlayerId": 1,
+    "State": 0,
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "IsAGRoom": true,
+    "IsDormRoom": false,
+    "CloningAllowed": false,
+    "SupportsVRLow": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "AllowsJuniors": true,
+    "RoomWarningMask": 0,
+    "CustomRoomWarning": "",
+    "DisableMicAutoMute": true
+  },
+  "Scenes": [
+    {
+      "RoomSceneId": 1,
+      "RoomId": 1,
+      "RoomSceneLocationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+      "Location": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+      "Name": "Home",
+      "IsSandbox": false,
+      "DataBlobName": "",
+      "MaxPlayers": 4,
+      "CanMatchmakeInto": true,
+      "DataModifiedAt": "0000-00-00T00:00:00+00:00"
+    }
+  ],
+  "CoOwners": [],
+  "InvitedCoOwners": [],
+  "InvitedModerators": [],
+  "Moderators": [],
+  "Hosts": [],
+  "InvitedHosts": [],
+  "CheerCount": 1,
+  "LocalPlayerRole": 3,
+  "FavoriteCount": 1,
+  "VisitCount": 1,
+  "Tags": [
+    {
+      "Tag": "2019BOIIIIIIIIIIS",
+      "Type": 1
+    },
+    {
+      "Tag": "2019",
+      "Type": 2
+    }
+  ]
+}
