@@ -1,0 +1,8 @@
+// place sentences or words in here
+// separated by new lines
+// lines starting with "//" are ignored.
+Test
+Test2
+Test3
+Test4
+OWO
